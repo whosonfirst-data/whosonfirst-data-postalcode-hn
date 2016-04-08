@@ -1,0 +1,50 @@
+{
+  "id": 437291827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"HN",
+    "src:geom":"geoplanet",
+    "wof:belongsto":[
+        102191575,
+        85632323,
+        85671911,
+        421194943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":"20246230"
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "county_id":421194943,
+            "postalcode_id":437291827,
+            "region_id":85671911
+        }
+    ],
+    "wof:id":437291827,
+    "wof:lastmodified":1459822642,
+    "wof:name":"CP1104",
+    "wof:parent_id":"421194943",
+    "wof:placetype":"postalcode",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}

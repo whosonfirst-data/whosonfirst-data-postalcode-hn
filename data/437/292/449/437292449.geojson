@@ -1,0 +1,50 @@
+{
+  "id": 437292449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"HN",
+    "src:geom":"geoplanet",
+    "wof:belongsto":[
+        102191575,
+        421180261,
+        85632323,
+        85671905
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":"20246510"
+    },
+    "wof:country":"HN",
+    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632323,
+            "locality_id":421180261,
+            "postalcode_id":437292449,
+            "region_id":85671905
+        }
+    ],
+    "wof:id":437292449,
+    "wof:lastmodified":1459822661,
+    "wof:name":"SB3119",
+    "wof:parent_id":"421180261",
+    "wof:placetype":"postalcode",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}
